@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(405,17): warning C4305:  +=: усечение из "double" в "float"
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(408,17): warning C4305:  -=: усечение из "double" в "float"
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(411,17): warning C4305:  +=: усечение из "double" в "float"
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(414,17): warning C4305:  -=: усечение из "double" в "float"
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(417,17): warning C4305:  +=: усечение из "double" в "float"
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(420,17): warning C4305:  -=: усечение из "double" в "float"
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(444,33): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(445,33): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(449,33): warning C4244:  -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(450,33): warning C4244:  -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(454,33): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(455,33): warning C4244:  +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(459,33): warning C4244:  -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(460,33): warning C4244:  -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(504,9): warning C4305:  аргумент: усечение из "double" в "float"
+C:\Users\Dzaruk\source\repos\ind3\ind3\main.cpp(510,9): warning C4305:  аргумент: усечение из "double" в "float"
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+  ind3.vcxproj -> C:\Users\Dzaruk\source\repos\ind3\Debug\ind3.exe
